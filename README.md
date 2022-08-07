@@ -5,15 +5,18 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+### `Ruby version`
+  #### ruby "3.0.2"
+### `System dependencies`
+ #### Rails 7.0
+ #### Sqlit
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
+### Configuration
+#### setup email config
+### Database creation
+ #### rails db:create
+ #### rails db:migrate
+### Database initialization
 
 * How to run the test suite
 
